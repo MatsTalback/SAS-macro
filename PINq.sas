@@ -85,5 +85,3 @@ run;
 proc print data=TestPNI;
 format PINq $PINqFmt.;
 run;
-Enter file contents here
-Enter file contents here
