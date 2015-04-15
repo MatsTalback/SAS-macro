@@ -30,5 +30,4 @@ cards;
 ;
 run;
 proc print data=TestDate;
-run;Enter file contents here
-Enter file contents here
+run;
